@@ -1,4 +1,4 @@
-# Medium Story Object Reference
+# Javascript Tips That Will Save Your Days - Part 1: Object Reference
 
 This repository related to
 
